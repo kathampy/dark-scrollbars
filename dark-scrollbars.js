@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Dark Scrollbars
-// @namespace    https://kathampy.com/
+// @namespace    https://kathampy.com/dark-scrollbars
 // @version      0.1
 // @description  Dark dynamic scrollbars on Firefox 72+
 // @author       Kurian Thampy
